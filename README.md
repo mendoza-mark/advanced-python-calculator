@@ -1,6 +1,7 @@
 # advanced-python-calculator
 A command-line advanced calculator built in Python that supports a wide variety of mathematical operations, ranging from basic arithmetic to scientific calculations.
 
+
 **Features:**
 - Basic Arithmetic Operations
 - Addition (+)
@@ -24,6 +25,7 @@ Utility Operations
 - Maximum of two numbers
 - Minimum of two numbers
 
+
 **Program Behavior**
 - Users select an operation and input the required numbers.
 - The calculator validates inputs such as:
@@ -32,9 +34,11 @@ Utility Operations
 --Invalid inputs for factorial
 -After each calculation, the program asks whether the user wants to perform another calculation.
 
+
 **Technologies Used**
 - Python
 - math module for scientific computations
+
 
 **Purpose**
 - This project was created to practice and demonstrate understanding of:
