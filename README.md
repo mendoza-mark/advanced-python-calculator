@@ -464,8 +464,7 @@ SOFTWARE.
 
 ### For Academic Inquiries
 - **Institution**: Batangas State University - JPLPC Malvar Campus
-- **Course**: BSIT-1203
-- **Instructor**: Kyla Andes
+- **Course**: BSIT
 
 ### For Technical Support
 - Open an issue on GitHub
