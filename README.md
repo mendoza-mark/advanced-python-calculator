@@ -462,10 +462,14 @@ SOFTWARE.
 
 ## 📞 Support
 
-### Need Help?
-- 📖 Check the [Operations Reference](#-operations-reference)
-- 💡 Review the [Examples](#-examples)
-- 🐛 [Report an Issue](https://github.com/yourusername/advanced-python-calculator/issues)
+### For Academic Inquiries
+- **Institution**: Batangas State University - JPLPC Malvar Campus
+- **Course**: BSIT-1203
+- **Instructor**: Kyla Andes
+
+### For Technical Support
+- Open an issue on GitHub
+- Contact: markdroeidmendoza@gmail.com
 
 ---
 
